@@ -1,0 +1,24 @@
+#container {
+  margin: 5px; }
+
+a {
+  display: inline-block;
+  border: 1px solid black;
+  text-decoration: none;
+  height: 2em;
+  line-height: 2em;
+  padding: 0 5px 0 5px; }
+
+a:hover {
+  background-color: black;
+  color: white; }
+
+a:focus {
+  background-color: black;
+  color: white;
+  font-weight: bold; }
+
+section {
+  display: none;
+  border: 1px solid black;
+  height: 35em; }
